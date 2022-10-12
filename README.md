@@ -1,4 +1,4 @@
 # seletor1
 Código feito em C que imprime opções para o usuário escolher, em seguida imprime a opção escolhida.
 <h2>Prints do terminal rodando o código</h2>
-![prints terminal](https://user-images.githubusercontent.com/104505715/195415530-601839f7-c7f3-413a-b8c9-14074d9c9d22.png)
+![image](https://user-images.githubusercontent.com/104505715/195415751-8e351dca-1eed-4b8e-a873-0b2e723e1ff0.png)
